@@ -1,8 +1,8 @@
-# JogWithFriends
+# Facebook Sencha
 
 A Sencha Touch 2 application that allows you to share jogging events with your facebook friends.
 
-## Setting up JogWithFriends
+## Setting up FacebookSencha
 
 In order to run this example app, you'll need to set up a Facebook application and deploy the app
 to a public server. Below we outline how to do so using free accounts from Heroku and MongoLabs.
